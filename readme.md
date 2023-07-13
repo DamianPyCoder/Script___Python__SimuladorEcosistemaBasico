@@ -8,4 +8,4 @@ La clase Organismo representará los diferentes organismos en el ecosistema. Cad
 
 La función simular_ecosistema recibe el número de generaciones como entrada y realiza la simulación del ecosistema. En cada generación, los organismos se reproducen y mueren de acuerdo con sus tasas de reproducción y mortalidad. Una vez hecho, se registrará la población de cada organismo en una lista de poblaciones.
 
-    He utilizado matplotlib para crear gráficos básicos que representen el ecosistema en evolución.  
+He utilizado matplotlib para crear gráficos básicos que representen el ecosistema en evolución.  
